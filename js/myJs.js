@@ -8,7 +8,7 @@ const textConfig = {
   text7: "haha nói cho a biết e nặng bao nhiêu kg đi :vvvv",
   text8: "Gửi cho anh <3",
   text9: "E nặng một tạ á kk",
-  text10: "A biết mà ^^ Yêu anh 300.000",
+  text10: "A biết mà ^^ E nặng 300.000 kg",
   text11:
     "Tối nay e nhớ tắm sạch sẽ nhaa, 3 ngày k tắm rồi á nhaa :v Còn giờ thì chờ gì nữa mà không kêu ủn ỉn đi nàooo",
   text12: "Okii lunn <3",
